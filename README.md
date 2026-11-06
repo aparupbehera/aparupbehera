@@ -1,16 +1,13 @@
-## Hi there 👋
+## Aparup Behera
 
-<!--
-**aparupbehera/aparupbehera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Background in production backend engineering platforms, with hands-on experience in event-driven systems, APIs, and cloud-based data workflows.
 
-Here are some ideas to get you started:
+### Background
+- 5+ years of backend engineering experience (Java/Spring Boot, Python, C++)
+- MSCS, Northeastern University — Distributed Systems, Deep Learning, NLP, MLOps
+- Experience building event-driven pipelines (Kafka) and cloud-based data/ML 
+  workflows (GCP, Vertex AI, Airflow, MLflow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Building
+Projects in this profile reflect ongoing work in data and telemetry pipeline 
+systems, built incrementally and documented as they ship.
