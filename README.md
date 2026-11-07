@@ -9,5 +9,5 @@ Background in production backend engineering platforms, with hands-on experience
   workflows (GCP, Vertex AI, Airflow, MLflow)
 
 ### Currently Building
-- A data pipeline for ingesting and processing vehicle telemetry at scale
+- A data pipeline for ingesting and processing telemetry at scale
 - A parallelized simulation runner supporting both CPU and GPU execution
