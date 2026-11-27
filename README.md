@@ -6,7 +6,5 @@ Background in production backend engineering platforms, with hands-on experience
 - 5+ years of backend engineering experience (Java/Spring Boot, Python, C++)
 - MSCS, Northeastern University — Distributed Systems, Deep Learning, NLP, MLOps
 - Experience building event-driven pipelines (Kafka) and cloud-based data/ML 
-  workflows (GCP, Vertex AI, Airflow, MLflow)
+  workflows (GCP, Vertex AI, Airflow, MLflow, PySpark)
 
-### Currently Building
-- A streaming and lakehouse data systems for vehicle and sensor data.
